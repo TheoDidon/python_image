@@ -25,9 +25,3 @@ Projet réalisé dans le cadre de l'approfondissement I3 : python scientifique
 
 Normalement le git push ne fonctionne pas la première fois et propose une commande à copier-coller avec un truc du style `-set--upstream`, il faut juste la copier coller et ça fonctionne
 
-
-## opérations sur les branches
-
-Pour regarder l'ensemble des branches: `git branch`
-
-Pour changer de branche: `git `
